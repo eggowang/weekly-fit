@@ -1,0 +1,23 @@
+{
+  "name": "Weekly Fit 每周健身",
+  "short_name": "Weekly Fit",
+  "description": "Weekly Fit 5.0：自定义每周健身计划、训练记录、PR 与训练容量统计",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080a0d",
+  "theme_color": "#080a0d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
