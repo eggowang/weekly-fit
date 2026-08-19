@@ -1,7 +1,7 @@
 {
   "name": "Weekly Fit 每周健身",
   "short_name": "Weekly Fit",
-  "description": "Weekly Fit 5.2：训练计划、身体数据、PR、训练容量与启动动画",
+  "description": "Weekly Fit 5.5：批量导入并自动分配训练计划、身体数据与启动动画",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
